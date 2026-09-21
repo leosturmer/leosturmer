@@ -1,5 +1,5 @@
 # Olá, eu sou o Leonardo Stürmer 👋
-## Desenvolvedor Web Jr. | Formado em Técnico em Desenvolvimento de Sistemas pelo Senac
+## Desenvolvedor Web Jr. | Técnico em Desenvolvimento de Sistemas pelo Senac
 
 <p align="center">
   Focado em transformar ideias em aplicações funcionais, gosto muito de estruturar, planejar e desenvolver sistemas web eficientes.
